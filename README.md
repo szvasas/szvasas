@@ -1,6 +1,10 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=szvasas&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szvasas" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=szvasas&show_icons=true" />
+</div>
 
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szvasas" />
+</div>
 <!--
 **szvasas/szvasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
